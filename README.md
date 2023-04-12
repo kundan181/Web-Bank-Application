@@ -27,5 +27,23 @@ Testing: This phase will involve testing the application's functionality, securi
 
 Deployment: This phase will involve deploying the application to a production environment and performing final testing before releasing the application to the public.
 
-Create Account: ![Create Account](https://user-images.githubusercontent.com/93983780/231346335-78f76eed-36a5-47db-8d63-123c058d7c0f.png)
+Create Account: 
+![Create Account](https://user-images.githubusercontent.com/93983780/231346335-78f76eed-36a5-47db-8d63-123c058d7c0f.png)
 
+Login Page: 
+![Index Page](https://user-images.githubusercontent.com/93983780/231346552-7a80ed8d-7ee6-45fe-aa9c-dd861bb4e3c3.png)
+
+Deposit Money: 
+![Deposit Money](https://user-images.githubusercontent.com/93983780/231346698-5c548b93-e086-4096-800c-5cad611b1cca.png) 
+
+Withdraw Money:
+![Withdraw Money](https://user-images.githubusercontent.com/93983780/231346792-7a1a35a5-7bb8-4a6d-88d0-d2992d603fc9.png) 
+
+Money Transfer:
+![Money Transfer](https://user-images.githubusercontent.com/93983780/231347075-812f5292-c818-4e61-806f-3e63757f7c4e.png)
+
+Delete Account:
+![Delete Account](https://user-images.githubusercontent.com/93983780/231346867-792b9346-facb-4437-a50e-a8aff39d56e7.png)
+
+Page Not Found:
+![Error Page](https://user-images.githubusercontent.com/93983780/231347010-23c51e64-158a-44be-9e68-9403e54fc1ca.png)
