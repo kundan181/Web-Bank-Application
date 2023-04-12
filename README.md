@@ -26,3 +26,6 @@ Development: This phase will involve coding the application's features, implemen
 Testing: This phase will involve testing the application's functionality, security, and performance.
 
 Deployment: This phase will involve deploying the application to a production environment and performing final testing before releasing the application to the public.
+
+Create Account: ![Create Account](https://user-images.githubusercontent.com/93983780/231346335-78f76eed-36a5-47db-8d63-123c058d7c0f.png)
+
